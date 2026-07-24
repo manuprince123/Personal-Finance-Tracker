@@ -1,0 +1,9 @@
+{
+  "include": ["src", "main.py"],
+  "extraPaths": ["."],
+  "venvPath": ".",
+  "venv": "venv",
+  "pythonVersion": "3.9",
+  "typeCheckingMode": "basic",
+  "pythonPath": "./venv/bin/python"
+}
