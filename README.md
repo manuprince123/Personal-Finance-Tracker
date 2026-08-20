@@ -38,7 +38,6 @@ A robust, object-oriented desktop application built with Python and Tkinter for 
    ```bash
    pip install -r requirements.txt
    ```
-
 ## Usage
 
 Start the application by running:
