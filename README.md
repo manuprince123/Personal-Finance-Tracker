@@ -1,7 +1,5 @@
 # Personal Finance Tracker
-
 A robust, object-oriented desktop application built with Python and Tkinter for managing personal finances.
-
 ## Features
 
 - **User Authentication:** Secure login and signup functionality.
